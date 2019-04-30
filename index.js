@@ -9,6 +9,8 @@ function scuberGreetingForFeet(feet) {
   } else if (feet > 2500) {
     message = 'No can do.'
   }
+
+  message; 
 }
 
 function ternaryCheckCity() {
