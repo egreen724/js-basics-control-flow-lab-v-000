@@ -1,5 +1,5 @@
 // Write your code in this file!
-function scuberGreetingForFeet(feet) {
+function scuberGreetingForFeet() {
   let message;
 
   if (feet <= 400) {
